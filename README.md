@@ -1,2 +1,3 @@
-# caothang
-app quiz dành cho những người muốn trả lời câu hỏi
+#Quizz App Cao Thắng
+
+QuizzApp là một ứng dụng giúp bạn có thể vừa giải đố các câu hỏi của hệ thống,vừa có điểm thưởng,cách thức chơi vô cùng đơn giản khi bạn mở ứng dụng ban đầu sẽ xuất hiện giao diện đăng ký bao gồm các các form đăng nhập,..nếu bạn chưa có tài khoản bạn có thể đăng ký hoặc không bạn có thể đăng nhập bằng google,facebook hệ thống sẽ ghi nhớ trạng thái đăng nhập của bạn từ đó lưu lại số câu và điểm credit mà bạn có,..về các thức chơi vô cùng đơn giản mỗi câu hỏi sẽ có 4 đáp án lần lượt là A,B,C,D việc của bạn là lựa ra đáp án mà bạn cho là đúng với bạn .Nếu gặp câu hỏi khó hệ thống sẽ cho bạn 4 quyền trợ giúp khi bạn sử dụng quyền trợ giúp thì hệ thống sẽ trừ điểm credit của bạn .khi hoàn thành trò chơi hệ thống sẽ hỏi bạn có muốn tiếp tục hay không và yêu cầu bạn chọn lĩnh vực tiếp theo .khi thoát ra hệ thống sẽ hỏi bạn có muốn thoát hay không....Về hệ quản trị cơ sở dữ liệu hệ thống sẽ lấy dữ liệu từ web thông qua API từ đó truyền về App.....
